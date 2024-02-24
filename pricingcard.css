@@ -1,0 +1,144 @@
+body{
+   background-color: cornflowerblue;
+}
+.table-basic1{
+    width: 200px;
+    height: 450px;
+    background-color: white;
+}
+.table-basic2{
+    width: 200px;
+    height: 450px;
+    background-color: white;
+    margin-left: 20px;
+}
+.table-basic3{
+    width: 200px;
+    height: 450px;
+    background-color: white;
+    margin-left: 20px;
+}
+.hding1{
+    text-align: center;
+   /* margin-top: -20px; */
+    color: red;
+    font-size: x-large;
+    padding: 3px;
+}
+.hding2{
+    text-align: center;
+   /* margin-top: -20px; */
+    color: rgb(195, 39, 148);
+    font-size: x-large;
+    padding: 3px;
+}
+.hding3{
+    text-align: center;
+   /* margin-top: -20px; */
+    color: rgb(241, 174, 79);
+    font-size: x-large;
+    padding: 3px;
+}
+.pg{
+    text-align: center;
+    font-size: small;
+    margin-top: -30px;
+}
+.price-area{
+    /* margin-top: -30px; */
+    text-align: center;
+    /* background-color: aqua; */
+    width: 200px;
+    height: 300px;
+}
+.fa-indian-rupee-sign{
+    color: red;
+    margin-top: -60px;
+    font-size: medium;
+}
+
+
+.cost-1{
+    font-size: xx-large;
+    color: red;
+
+}
+.cost-2{
+    font-size: xx-large;
+    color: rgb(195, 39, 148);
+
+}
+.cost-3{
+    font-size: xx-large;
+    color: rgb(241, 174, 79);
+
+}
+.cost11{
+    color: red;
+    margin-left:-10px;
+}
+.cost12{
+    color: rgb(195, 39, 148);
+    margin-left:-10px;
+}
+.cost13{
+    color: rgb(241, 174, 79);
+    margin-left:-10px;
+}
+.txt{
+    font-size: small;
+}
+ .btn1{
+color: white;
+background-color: red;
+border: 2px solid red;
+width: 130px;
+height: 30px;
+border-radius: 30px;
+margin-top: 20px;
+}
+.btn2{
+    color: white;
+    background-color: rgb(195, 39, 148);
+    border: 2px solid rgb(195, 39, 148);
+    width: 130px;
+    height: 30px;
+    border-radius: 30px;
+    margin-top: 20px;
+}
+.btn3{
+    color: white;
+    background-color: red;
+    border: 2px solid red;
+    width: 130px;
+    height: 30px;
+    border-radius: 30px;
+    margin-top: 20px;
+    }
+li{
+    list-style: none;
+    justify-content: space-around;
+    display: flex;
+    margin-top: 20px;
+}
+.list-name1{
+    margin-left: -20px;
+    display: flex;
+}
+.icon{
+    margin-right: -20px;
+}
+.features{
+    margin-top: -50px;
+    text-align: center;
+    font-size: 25px;
+}
+.fa-xmark{
+    color: red;
+}
+.fa-check{
+    color: green;
+}
+.wrapper{
+    display: flex;
+}
